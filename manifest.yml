@@ -1,0 +1,5 @@
+---
+applications:
+ - name: portifolio-william
+   random-route: true
+   memory: 64M
