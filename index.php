@@ -87,13 +87,47 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
+            <img src="./img/bees.png" />
+            <h3 class="mb-0">Bees</h3>
+            <div class="subheading mb-3">Desenvolvedor</div>
+            <p>
+              Plataforma de B2B com venda de bebidas para os beres, adegas e outros pontos de venda em diversos países.
+            </p>
+            <p>
+              Trabalhando como desenvolvedor para implementar novas funcionalidades e integrações com o micro serviços internos.s
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary"></span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <img src="./img/RCAturismo.jpeg" />
+            <h3 class="mb-0">RCA Turismo</h3>
+            <div class="subheading mb-3">Desenvolvedor</div>
+            <p>
+              Serviços para aprimoramento da loja online para os clientes e agentes de viagens.
+            </p>
+            <p>
+              implementando novas funcionalidades 
+              e integrações com apis parceiros do ramo de aluguem de carro e venda de seguros.
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary"></span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
             <img src="./img/elumini.png" style="background: #3c3c3c;" />
             <h3 class="mb-0">Elumini Outdoing IT</h3>
             <div class="subheading mb-3">Desenvolvedor e consultor</div>
             <p>
               Os serviços de progamação e consultoria para os clientes da Elumini, são prestados tanto em home office
-              quanto
-              alocado nos clientes.
+              quanto alocado nos clientes.
             </p>
             <p>
               Com contato direto com os clientes, Sou responsável por desenvolver as alterações, melhorias e novas
