@@ -3,250 +3,236 @@
 
 <head>
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="William Caetano Cardenas, desenvolvedor">
-  <meta name="author" content="William">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="William Caetano Cardenas, desenvolvedor">
+    <meta name="author" content="William">
 
-  <title>Resume - Start Bootstrap Theme</title>
+    <title>William Caetano Cardenas - portifolio</title>
 
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-  <!-- Custom fonts for this template -->
-  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
-  <!-- Custom styles for this template -->
-  <link href="css/resume.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/resume.css" rel="stylesheet">
 
 </head>
 
 <body id="page-top">
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Clarence Taylor</span>
-      <span class="d-none d-lg-block">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <span class="d-block d-lg-none">Clarence Taylor</span>
+            <span class="d-none d-lg-block">
         <!--
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         -->
 
       </span>
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#about">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#experience">Clientes</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#skills">Ferramentas</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Base de pensamento</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-
-  <div class="container-fluid p-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-      <div class="w-100">
-        <h1 class="mb-0">William Caetano Cardenas
-        </h1>
-        <div class="subheading mb-5">Desenvolvedor de soluções web
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#about">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#experience">Clientes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#skills">Ferramentas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#interests">Base de pensamento</a>
+                </li>
+            </ul>
         </div>
-        <p class="lead mb-5">Entrega de valor para os clientes através de software em funcionamento</p>
-        <div class="social-icons">
-          <a href="https://www.linkedin.com/in/william-caetano-cardenas-3029284a" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          <a href="https://github.com/williamCardenas" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          <a href="https://twitter.com/WilliamCaetanoC" target="_blank">
-            <i class="fab fa-twitter"></i>
-          </a>
-        </div>
-      </div>
-    </section>
+    </nav>
 
-    <hr class="m-0">
+    <div class="container-fluid p-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
-      <div class="w-100">
-        <h2 class="mb-5">Clientes</h2>
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+            <div class="w-100">
+                <h1 class="mb-0">William Caetano Cardenas
+                </h1>
+                <div class="subheading mb-5">Desenvolvedor de soluções web
+                </div>
+                <p class="lead mb-5">Entrega de valor para os clientes através de software em funcionamento</p>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/william-caetano-cardenas-3029284a" target="_blank">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="https://github.com/williamCardenas" target="_blank">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://twitter.com/WilliamCaetanoC" target="_blank">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/bees.png" />
-            <h3 class="mb-0">Bees</h3>
-            <div class="subheading mb-3">Desenvolvedor</div>
-            <p>
-              Plataforma de B2B com venda de bebidas para os beres, adegas e outros pontos de venda em diversos países.
-            </p>
-            <p>
-              Trabalhando como desenvolvedor para implementar novas funcionalidades e integrações com o micro serviços internos.s
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+        <hr class="m-0">
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/RCAturismo.jpeg" />
-            <h3 class="mb-0">RCA Turismo</h3>
-            <div class="subheading mb-3">Desenvolvedor</div>
-            <p>
-              Serviços para aprimoramento da loja online para os clientes e agentes de viagens.
-            </p>
-            <p>
-              implementando novas funcionalidades 
-              e integrações com apis parceiros do ramo de aluguem de carro e venda de seguros.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+        <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+            <div class="w-100">
+                <h2 class="mb-5">Clientes</h2>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/elumini.png" style="background: #3c3c3c;" />
-            <h3 class="mb-0">Elumini Outdoing IT</h3>
-            <div class="subheading mb-3">Desenvolvedor e consultor</div>
-            <p>
-              Os serviços de progamação e consultoria para os clientes da Elumini, são prestados tanto em home office
-              quanto alocado nos clientes.
-            </p>
-            <p>
-              Com contato direto com os clientes, Sou responsável por desenvolver as alterações, melhorias e novas
-              funcionalidades
-              nos sites e sistemas.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/bees.png" />
+                        <h3 class="mb-0">Bees</h3>
+                        <div class="subheading mb-3">Desenvolvedor</div>
+                        <p>
+                            Plataforma de B2B com venda de bebidas para os bares, adegas e outros pontos de venda em diversos países.
+                        </p>
+                        <p>
+                            Trabalhando como desenvolvedor para implementar novas funcionalidades e integrações com o micro serviços internos.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/logotipo-duosystem.svg" />
-            <h3 class="mb-0">Duo System</h3>
-            <div class="subheading mb-3">Desenvolvedor (Cliente Elumini)</div>
-            <p>
-              Com um sistema para agendamento de recursos hospitalares (leitos, exames e consultas) utilizado pelos
-              governos estaduais.
-            </p>
-            <p>
-              Trabalhei com a versão 2 do sistema que era desenvolvida com o framework Symfony, com o desafio de
-              implementar novas
-              funcionalidades juntamente com a equipe de TI da própria Duo System que envolvia os DBAs, os analistas de
-              requisitos e a equipes de testes.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/RCAturismo.jpeg" />
+                        <h3 class="mb-0">RCA Turismo</h3>
+                        <div class="subheading mb-3">Desenvolvedor</div>
+                        <p>
+                            Serviços para aprimoramento da loja online para os clientes e agentes de viagens.
+                        </p>
+                        <p>
+                            implementando novas funcionalidades e integrações com apis de parceiros do ramo de aluguem de carro e venda de seguros.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/logogenerali.png" />
-            <h3 class="mb-0">Gelerali</h3>
-            <div class="subheading mb-3">Desenvolvedor (Cliente Elumini)</div>
-            <p>
-              Seguradora que está atuando no mercado brasileiro há 94 anos
-            </p>
-            <p>
-              Trabalhei no site institucional, na intranet (sistema interno para os funcionários) e em hotsites de
-              produtos.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/elumini.png" style="background: #3c3c3c;" />
+                        <h3 class="mb-0">Elumini Outdoing IT</h3>
+                        <div class="subheading mb-3">Desenvolvedor e consultor</div>
+                        <p>
+                            Os serviços de progamação e consultoria para os clientes da Elumini, são prestados tanto em home office quanto alocado nos clientes.
+                        </p>
+                        <p>
+                            Com contato direto com os clientes, fui responsável por desenvolver alterações, melhorias e novas funcionalidades nos sites e sistemas.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/kroton.gif" />
-            <h3 class="mb-0">Kroton</h3>
-            <div class="subheading mb-3">Analista e Desenvolvedor</div>
-            <p>
-              Dona de algumas faculdades presente em todo o território nacional, oferecendo cursos superiores tanto nas
-              faculdades qunto pela internet com educação à distancia.
-            </p>
-            <p>
-              Atuei diretamente em produtos como a bibliteca-virtal.com e as plataformas de inscrição para os
-              vestibulares.
-            </p>
-            <p>
-              Na biblioteca-virtual.com fiz a integração do site com a API do parceito Ebsco para a busca de livros em
-              todos os parceiros que disponibiliza os acervos digitais.
-            </p>
-            <p>
-              Nos portais de inscrção, fis trabalhos de manutenção e pequenas mudanças, atuando desde a análise das
-              demandas
-              até a implementação em produção.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/logotipo-duosystem.svg" />
+                        <h3 class="mb-0">Duo System</h3>
+                        <div class="subheading mb-3">Desenvolvedor (Cliente Elumini)</div>
+                        <p>
+                            Com um sistema para agendamento de recursos hospitalares (leitos, exames e consultas) utilizado pelos governos estaduais.
+                        </p>
+                        <p>
+                            Trabalhei com a versão 2 do sistema que era desenvolvida com o framework Symfony, com o desafio de implementar novas funcionalidades juntamente com a equipe de TI da própria Duo System que envolvia os DBAs, os analistas de requisitos e a equipes de testes.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <img src="./img/logo-salles.png" />
-            <h3 class="mb-0">Salles Imo]óveis</h3>
-            <div class="subheading mb-3">Desenvolvedor</div>
-            <p>
-              Imobiliária de imoveis de auto padrão na região de Jundiaí.
-            </p>
-            <p>
-              Fiz o sistema de gerenciamento dos imoveis que disponibiliza as informações via API para o site.
-            </p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
-        </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/logogenerali.png" />
+                        <h3 class="mb-0">Gelerali</h3>
+                        <div class="subheading mb-3">Desenvolvedor (Cliente Elumini)</div>
+                        <p>
+                            Seguradora que está atuando no mercado brasileiro há 94 anos
+                        </p>
+                        <p>
+                            Trabalhei no site institucional, na intranet (sistema interno para os funcionários) e em hotsites de produtos.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-      </div>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/kroton.gif" />
+                        <h3 class="mb-0">Kroton</h3>
+                        <div class="subheading mb-3">Analista e Desenvolvedor</div>
+                        <p>
+                            Dona de algumas faculdades presente em todo o território nacional, oferecendo cursos superiores tanto nas faculdades qunto pela internet com educação à distancia.
+                        </p>
+                        <p>
+                            Atuei diretamente em produtos como a bibliteca-virtal.com e as plataformas de inscrição para os vestibulares.
+                        </p>
+                        <p>
+                            Na biblioteca-virtual.com fiz a integração do site com a API do parceito Ebsco para a busca de livros em todos os parceiros que disponibiliza os acervos digitais.
+                        </p>
+                        <p>
+                            Nos portais de inscrção, fis trabalhos de manutenção e pequenas mudanças, atuando desde a análise das demandas até a implementação em produção.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-    </section>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="resume-content">
+                        <img src="./img/logo-salles.png" />
+                        <h3 class="mb-0">Salles Imo]óveis</h3>
+                        <div class="subheading mb-3">Desenvolvedor</div>
+                        <p>
+                            Imobiliária de imoveis de auto padrão na região de Jundiaí.
+                        </p>
+                        <p>
+                            Fiz o sistema de gerenciamento dos imoveis que disponibiliza as informações via API para o site.
+                        </p>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <span class="text-primary"></span>
+                    </div>
+                </div>
 
-    <hr class="m-0">
+            </div>
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
-      <div class="w-100">
-        <h2 class="mb-5">Ferramentas que conheço</h2>
+        </section>
 
-        <div class="subheading mb-3">Front-end</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-            <i class="fab fa-html5"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-css3-alt"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-js-square"></i>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" height="60" width="220">
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+            <div class="w-100">
+                <h2 class="mb-5">Ferramentas que conheço</h2>
+
+                <div class="subheading mb-3">Front-end</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item">
+                        <i class="fab fa-html5"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-css3-alt"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-js-square"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="60" width="220">
               <g fill="#131b28">
                 <path d="m95.24 27.578v-.002l-1.275 4.524 1.276-4.52zm6.565 9.82-1.405.002 1.406.008zm-.362 6.752h.002l-8.426.03zm1.757-6.745-1.407-.008zm-1.018 6.172 1.468-5.597-1.468 5.598zm31.02-25.777-2.734 12.853zm-7.028 0-2.076 9.602z" />
                 <path d="m132.734 17.222h-5.846a.77.77 0 0 0 -.716.577l-4.15 19.205a.77.77 0 0 1 -.715.576h-4.138c-4.094 0-3.62-2.83-2.782-6.7l.025-.117.496-2.643.214-1.087 1.888-9.22c.065-.318-.148-.58-.472-.58h-6c-.324 0-.646.26-.712.578l-2.702 12.82c-1.486 6.785-1.092 13.255 6.985 13.458l.234.005h12.678c.324 0 .646-.26.713-.578l5.466-25.716c.067-.318-.143-.578-.468-.578zm23.322 20.426a.46.46 0 0 1 .472.578l-.568 2.774m-.566 2.776.566-2.776-.568 2.777zm-.712.584-10.774.052 10.773-.052z" />
@@ -261,51 +247,52 @@
               </g>
               <path d="m12.276 21.615c-3.173 4.56-2.778 10.495-.354 15.34l.3.563c.022.043.047.085.07.125.04.077.084.15.126.226l.23.397.132.217.384.597a19.84 19.84 0 0 0 .389.561l.077.103a18.36 18.36 0 0 0 .355.471l.133.17.328.402.125.15a21.04 21.04 0 0 0 .456.521c.016.017.02.02.027.03a22.92 22.92 0 0 0 .464.489l.15.15.37.363.152.144c.167.157.336.3.507.462.037.033.067.057.096.082l.46.4.2.152.384.3.205.156.43.3.157.112c.015.01.028.02.043.03.138.095.278.186.42.277l.18.12a23.32 23.32 0 0 0 .656.402l.18.102.492.276c.1.048.182.094.272.14l.352.183.08.04.144.07.558.258.118.053a19.98 19.98 0 0 0 .651.27l.158.062.614.228.077.027a19.57 19.57 0 0 0 .685.224l.165.05c.234.07.466.155.707.2 15.346 2.8 19.804-9.222 19.804-9.222-3.744 4.878-10.4 6.164-16.686 4.732-.238-.054-.47-.128-.703-.197l-.175-.053a22.27 22.27 0 0 1 -.677-.22l-.093-.033a21.28 21.28 0 0 1 -.597-.221l-.167-.066c-.217-.086-.432-.175-.644-.268l-.13-.057-.543-.253-.157-.075-.42-.214-.28-.147c-.17-.1-.337-.186-.504-.282l-.17-.095a24.39 24.39 0 0 1 -.656-.402c-.06-.038-.118-.08-.177-.118l-.467-.3-.15-.106-.44-.32-.594-.448-.178-.142-.496-.418c-.017-.015-.036-.03-.054-.046a19.62 19.62 0 0 1 -.52-.474l-.147-.14-.375-.367-.147-.147-.46-.486a.51.51 0 0 0 -.023-.024 18.69 18.69 0 0 1 -.466-.531l-.122-.145-.336-.415-.123-.153-.388-.516c-3.496-4.768-4.752-11.345-1.958-16.746m7.383-.702c-2.295 3.302-2.17 7.723-.38 11.216a14.61 14.61 0 0 0 1.015 1.694c.344.493.725 1.08 1.18 1.475a12.93 12.93 0 0 0 .515.534 5.43 5.43 0 0 0 .136.134l.526.5c.007.006.014.013.02.02.205.18.4.348.62.513l.14.1a15.08 15.08 0 0 0 .643.469c.007.005.012.01.02.014.097.067.195.13.293.193.047.03.092.063.14.092.157.1.315.198.476.292l.067.04.42.235c.05.028.1.052.15.078l.295.152c.015.007.03.014.045.02a15.1 15.1 0 0 0 .614.286c.045.02.1.037.136.056l.504.204.216.08c.153.057.307.1.462.16l.2.067c.22.07.44.155.67.193 11.85 1.963 14.584-7.16 14.584-7.16-2.466 3.552-7.24 5.246-12.337 3.923a14.63 14.63 0 0 1 -.671-.194c-.068-.02-.134-.043-.202-.065a13.6 13.6 0 0 1 -.469-.162l-.212-.08a14.79 14.79 0 0 1 -.505-.204l-.156-.068a14.1 14.1 0 0 1 -.618-.287c-.105-.05-.207-.105-.3-.158l-.18-.092a14.72 14.72 0 0 1 -.392-.221l-.094-.053c-.16-.094-.318-.2-.475-.3-.048-.03-.095-.064-.143-.096l-.298-.193c-.218-.15-.43-.3-.64-.468l-.144-.113c-2.23-1.76-4-4.168-4.84-6.896-.88-2.83-.7-6.007.835-8.585m6.4-.235c-1.353 2-1.486 4.463-.547 6.662 1 2.334 3.018 4.165 5.386 5.033l.294.102.13.04.422.122c6.543 1.264 8.317-3.357 8.8-4.037-1.555 2.238-4.167 2.775-7.372 1.997a8.34 8.34 0 0 1 -.776-.239 9.48 9.48 0 0 1 -.921-.383c-.57-.273-1.112-.605-1.615-.985-2.868-2.176-4.65-6.328-2.778-9.7" fill="#0868ac" />
             </svg>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-node-js"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-sass"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-npm"></i>
-          </li>
-        </ul>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-node-js"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-sass"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-npm"></i>
+                    </li>
+                </ul>
 
-        <div class="subheading mb-3">Back-end</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-            <i class="fab fa-php"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-symfony"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-laravel"></i>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="60px" height="48px" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 124">
+                <div class="subheading mb-3">Back-end</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item">
+                        <i class="fab fa-php"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-symfony"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-laravel"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="60px" height="48px" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet"
+                            viewBox="0 0 256 124">
               <path d="M120.43 36.02s0-33.818 33.82-33.818h101.456s0 33.819-33.82 33.819H120.43" />
               <path d="M120.43 79.233s0-33.819 33.82-33.819h50.727s0 33.82-33.82 33.82H120.43" />
               <path d="M120.43 122.446s0-33.818 33.82-33.818h16.907s0 33.818-33.817 33.818h-16.91" />
               <path d="M109.076 96.055v26.98H.32l70.06-95.568H10.236V.486h113.456L53.956 96.055h55.12" />
               </g></svg>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-wordpress"></i>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100" height="60" viewBox="0 0 27 32">
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-wordpress"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100" height="60" viewBox="0 0 27 32">
               <path fill="#444444" d="M13.96 30.326c0.557-0.261 0.962-0.629 0.962-0.899 0-0.108 1.429-1.537 1.618-1.618 0.027-0.009 0.216 0.045 0.396 0.117l0.342 0.144-0.638 0.404c-0.351 0.216-0.674 0.396-0.728 0.396zM16.71 28.789l0.611-0.306c1.232-0.62 4.557-1.762 5.816-2.005 0.557-0.099 0.431-0.189-0.153-0.108-0.306 0.036-0.611 0.099-0.683 0.117-0.252 0.099 0.198-0.315 0.737-0.683 0.297-0.189 0.467-0.351 0.387-0.351-0.431 0-4.324 1.555-5.061 2.031-0.279 0.18-0.297 0.171-0.297-0.216 0-0.324 0.027-0.342 0.611-0.665 0.512-0.279 3.658-1.69 3.766-1.69 0.018 0-0.072 0.189-0.207 0.422l-0.252 0.431 0.683-0.629c0.378-0.351 0.683-0.656 0.692-0.683 0-0.036-0.216-0.009-0.485 0.054s-0.512 0.090-0.53 0.054c-0.090-0.144 0.117-1.169 0.306-1.537 0.108-0.216 0.252-0.719 0.315-1.115 0.261-1.564 0.584-2.831 0.944-3.694 0.764-1.807 0.836-2.076 0.719-2.58-0.063-0.243-0.090-0.557-0.054-0.71 0.027-0.144 0.009-0.369-0.036-0.494-0.063-0.171-0.063-0.279 0.009-0.36 0.081-0.108 0.027-0.225-0.279-0.584-0.207-0.243-0.369-0.458-0.351-0.467 0.018-0.018 0.18-0.090 0.351-0.162l0.315-0.144 0.090-1.231c0.054-0.674 0.081-1.223 0.081-1.223-0.009 0-0.404 0.117-0.89 0.27-0.485 0.144-0.926 0.27-0.989 0.27-0.126 0-0.243-0.234-0.629-1.312-0.252-0.683-0.297-0.899-0.252-1.348 0.054-0.62-0.162-2.049-0.431-2.849-0.36-1.079-1.492-3.038-1.861-3.2-0.315-0.153-0.539-0.117-0.656 0.090-0.117 0.225-0.108 0.252 0.315 1.231l0.324 0.755-0.557-0.441c-1.249-0.971-2.454-1.627-3.137-1.708-0.432-0.054-0.449-0.045-0.548 0.225-0.063 0.153-0.18 0.297-0.27 0.315-0.117 0.036-0.162 0.135-0.162 0.386 0 0.315 0.072 0.405 0.926 1.222 0.503 0.476 0.881 0.872 0.845 0.881-0.036 0-0.387-0.207-0.764-0.467-0.566-0.378-0.764-0.467-1.088-0.476-0.755 0-0.737 0.521 0.036 1.070 0.27 0.198 0.809 0.674 1.187 1.070l0.701 0.719-0.629 0.108c-0.989 0.18-1.384 0.306-1.483 0.503-0.189 0.351-0.072 0.449 0.971 0.791 0.557 0.189 1.097 0.422 1.213 0.521 0.36 0.333 1.178 0.809 1.663 0.971 0.315 0.099 0.512 0.225 0.575 0.36 0.054 0.117 0.189 0.252 0.306 0.306 0.144 0.063 0.252 0.234 0.36 0.593 0.081 0.279 0.126 0.53 0.099 0.557-0.027 0.018-0.396 0.153-0.818 0.279l-0.773 0.243 0.656 1.168c0.602 1.088 0.665 1.169 0.899 1.142 0.297-0.027 0.297-0.027 0.045 0.396l-0.198 0.333 0.207 0.378c0.135 0.261 0.18 0.458 0.144 0.584-0.054 0.171-0.090 0.144-0.27-0.243-0.234-0.503-0.872-1.339-1.258-1.663-0.665-0.539-0.944-0.647-1.807-0.656l-0.809-0.018-0.422-0.405c-0.225-0.225-0.647-0.521-0.935-0.665-0.494-0.243-0.584-0.261-1.645-0.261h-1.124l-0.854 0.449c-1.097 0.566-2.229 1.681-2.939 2.876-0.261 0.44-0.476 0.755-0.476 0.71-0.009-0.045-0.045-0.252-0.081-0.458-0.072-0.368-0.072-0.377 0.198-0.405 0.261-0.027 0.279-0.054 0.467-0.836 0.108-0.449 0.225-0.899 0.261-0.998 0.054-0.18 0-0.207-0.755-0.396-0.611-0.153-0.809-0.234-0.809-0.351 0-0.279 0.261-1.106 0.386-1.258 0.072-0.081 0.153-0.225 0.171-0.324s0.207-0.279 0.44-0.405c0.629-0.342 0.665-0.386 1.321-1.654 0.476-0.926 0.737-1.321 1.249-1.87 0.36-0.386 0.656-0.737 0.656-0.773 0-0.153-0.369-0.557-0.503-0.557-0.27 0-0.072-0.162 1.151-0.944 1.609-1.016 1.654-1.061 1.501-1.178-0.099-0.081-0.647 0.225-2.328 1.276-1.213 0.764-2.229 1.384-2.256 1.384s-0.135-0.27-0.243-0.593l-0.189-0.584 0.62-0.584c0.656-0.62 0.8-0.863 0.629-1.070-0.081-0.099-0.243-0.054-0.926 0.279-0.458 0.225-1.16 0.503-1.573 0.638-0.692 0.216-0.755 0.216-0.908 0.081-0.378-0.342-0.62-0.135-1.555 1.312-0.189 0.288-0.369 0.521-0.404 0.521-0.045 0-0.27-0.351-0.512-0.791-0.243-0.431-0.521-0.872-0.62-0.989-0.243-0.261-0.476-0.252-0.548 0.018-0.090 0.36 0.315 2.005 0.962 3.991 0.207 0.62 0.216 0.656 0.063 0.737-0.144 0.072-0.153 0.126-0.063 0.36 0.072 0.198 0.144 0.252 0.261 0.216 0.135-0.036 0.216 0.063 0.422 0.53 0.261 0.575 0.261 0.584 0.117 1.106-0.081 0.297-0.144 0.539-0.153 0.548 0 0.009-0.225-0.036-0.494-0.108-0.818-0.216-0.764-0.279-0.881 1.052-0.063 0.656-0.108 1.258-0.108 1.339 0 0.108 0.117 0.171 0.413 0.216l0.413 0.054-0.063 0.539c-0.054 0.431-0.036 0.575 0.081 0.701 0.153 0.162 0.198 1.142 0.225 4.656l0.009 1.267 0.342 0.108c0.423 0.144 0.647 0.333 0.647 0.575 0 0.117 0.144 0.288 0.386 0.458 0.207 0.144 0.998 0.719 1.744 1.276 1.303 0.962 1.366 1.025 1.276 1.222-0.081 0.189-0.063 0.252 0.162 0.476 0.216 0.225 0.234 0.261 0.090 0.288-0.081 0.018-0.369-0.018-0.629-0.072-0.602-0.135-2.67-0.234-2.661-0.126 0 0.045 0.431 0.297 0.962 0.557s0.881 0.404 0.782 0.315c-0.108-0.090-0.351-0.297-0.539-0.458l-0.36-0.306 0.53 0.063c0.971 0.117 4.072 0.971 4.279 1.187 0.126 0.126 0.072 0.135-0.494 0.081-1.663-0.153-2.382-0.162-3.524-0.054-0.683 0.063-1.294 0.144-1.357 0.18-0.162 0.081 1.249 0.18 2.679 0.18 1.124 0 2.472 0.207 4.98 0.764l0.656 0.144-0.153 0.333c-0.243 0.494-0.647 1.897-0.584 1.995zM17.285 2.776c1.258 0.683 2.085 1.348 2.085 1.672-0.009 0.18 0.036 0.243 0.162 0.243 0.090 0 0.243 0.045 0.342 0.090 0.135 0.072 0.171 0.063 0.171-0.027 0-0.18-0.216-0.791-0.557-1.564-0.288-0.665-0.288-0.926 0-0.926 0.225 0 0.351 0.162 0.881 1.079 0.548 0.953 0.899 1.717 1.124 2.499 0.225 0.764 0.324 2.139 0.189 2.535-0.081 0.225-0.072 0.351 0.036 0.611 0.315 0.728 0.755 1.861 0.755 1.951s-1.807 0.674-2.058 0.674c-0.045 0-0.117-0.090-0.153-0.207-0.207-0.674-0.422-1.142-0.53-1.142-0.072 0-0.189-0.117-0.27-0.27-0.162-0.324-0.306-0.396-0.944-0.53-0.333-0.072-0.755-0.279-1.303-0.638-0.629-0.413-0.935-0.548-1.393-0.638-0.324-0.054-0.656-0.144-0.737-0.189-0.207-0.099-0.207-0.315 0.009-0.422 0.189-0.108 1.986-0.27 2.292-0.216 0.135 0.027 0.351-0.054 0.593-0.207 0.413-0.279 0.36-0.404-0.081-0.18-0.422 0.225-0.602 0.18-0.953-0.252-0.18-0.225-0.746-0.773-1.267-1.222-0.908-0.8-1.070-1.034-0.809-1.133 0.153-0.063 0.458 0.090 1.429 0.719 0.404 0.261 0.98 0.611 1.276 0.773 0.494 0.279 0.521 0.288 0.36 0.081-0.467-0.566-1.744-1.969-2.13-2.337-0.431-0.413-0.557-0.755-0.306-0.854 0.198-0.072 0.629 0.189 2.031 1.24 0.836 0.62 1.133 0.818 0.836 0.53-0.467-0.44-1.645-1.339-2.202-1.672-0.162-0.099-0.306-0.27-0.324-0.386-0.054-0.342 0.405-0.243 1.447 0.315zM9.079 4.196c0 0.162-0.18 0.369-0.719 0.818-0.396 0.333-0.719 0.611-0.719 0.62s0.090 0.009 0.189 0.009c0.153-0.009 0.234 0.081 0.36 0.44 0.225 0.647 0.216 0.836-0.063 0.908-0.189 0.045-0.297-0.009-0.584-0.288-0.396-0.386-0.44-0.665-0.144-0.881 0.171-0.117 0.144-0.117-0.144 0.009l-0.351 0.162-0.261-0.315c-0.144-0.171-0.252-0.369-0.234-0.44 0.009-0.063 0.36-0.27 0.782-0.449s0.944-0.431 1.169-0.566c0.53-0.306 0.719-0.315 0.719-0.027zM6.121 5.247c0.108 0.162 0.521 0.629 0.908 1.025 0.701 0.737 0.818 0.962 0.557 1.061-0.378 0.144-0.809-0.027-1.393-0.548-0.198-0.18-0.378-0.306-0.396-0.279-0.027 0.018-0.063 0.18-0.099 0.351-0.036 0.243-0.027 0.279 0.054 0.144 0.054-0.081 0.135-0.153 0.189-0.153 0.171 0 0.98 0.593 0.98 0.719 0 0.117-2.679 1.708-3.011 1.78-0.162 0.036-1.061-2.742-1.258-3.874-0.045-0.288-0.027-0.333 0.117-0.333 0.207 0 0.485 0.404 1.043 1.51 0.234 0.458 0.431 0.827 0.44 0.827 0.018 0 0.018-0.108 0-0.252-0.027-0.18 0.117-0.485 0.602-1.258 0.728-1.142 0.908-1.24 1.267-0.719zM10.589 6.524c0.027 0.207-0.054 0.342-0.368 0.674-0.431 0.449-1.178 1.519-1.501 2.166-0.252 0.503-0.755 1.043-1.187 1.267-0.27 0.135-0.333 0.234-0.386 0.521-0.036 0.198-0.117 0.405-0.18 0.458s-0.189 0.36-0.279 0.683-0.216 0.611-0.279 0.638c-0.063 0.027-0.566-0.063-1.115-0.198l-0.998-0.252 0.045-0.342c0.027-0.189 0.108-0.467 0.189-0.629 0.135-0.27 0.135-0.306-0.189-0.962-0.216-0.449-0.297-0.719-0.243-0.791 0.135-0.198 3.263-2.103 3.443-2.103 0.099 0 0.297-0.099 0.449-0.225 0.413-0.351 2.094-1.196 2.346-1.187 0.18 0.018 0.234 0.072 0.252 0.279zM24.396 11.719c-0.036 0.458-0.081 0.863-0.117 0.899-0.072 0.081-4.18 1.51-4.351 1.51-0.135 0-0.989-1.483-0.935-1.645 0.036-0.108 4.899-1.573 5.258-1.582 0.207-0.009 0.207 0 0.144 0.818zM5.645 13.023c1.267 0.324 2.346 0.629 2.391 0.665 0.072 0.063-0.162 1.106-0.297 1.33-0.045 0.072-0.71 0.009-2.445-0.225-1.303-0.18-2.4-0.351-2.427-0.377-0.036-0.036-0.018-0.494 0.036-1.034 0.081-0.845 0.117-0.962 0.261-0.962 0.099 0 1.213 0.27 2.481 0.602zM14.328 12.807c0.809 0.387 1.267 0.845 1.447 1.438 0.171 0.575 0.18 1.456 0.009 1.609-0.081 0.072-0.108 0.234-0.081 0.44 0.099 0.71-0.396 1.519-1.303 2.139-1.124 0.755-1.411 0.836-3.838 1.088-1.879 0.189-2.157 0.279-2.49 0.719-0.108 0.153-0.252 0.27-0.315 0.27-0.162 0-0.144-0.413 0.027-0.71 0.27-0.467 0.692-0.647 2.265-1.007 1.717-0.396 2.346-0.602 3.137-1.034 0.548-0.306 0.836-0.584 0.836-0.827 0-0.072-0.153-0.009-0.422 0.171-0.746 0.521-1.69 0.791-3.595 1.025-1.106 0.144-1.96 0.396-2.472 0.728-0.36 0.234-0.611 0.279-0.611 0.117 0-0.054 0.225-0.459 0.503-0.899 0.872-1.375 2.355-2.562 3.739-3.002 0.944-0.297 2.679-0.324 3.29-0.045 0.207 0.099 0.36 0.135 0.333 0.090-0.099-0.162-1.088-0.467-1.663-0.512-1.447-0.117-3.389 0.593-4.36 1.591-0.297 0.306-0.773 0.629-0.917 0.629-0.117 0 0.162-0.521 0.755-1.42 1.052-1.573 2.103-2.436 3.353-2.751 1.195-0.297 1.474-0.279 2.373 0.153zM23.901 13.427c0.315 0.324 0.369 0.431 0.324 0.647-0.027 0.144 0 0.315 0.054 0.378 0.063 0.072 0.081 0.252 0.036 0.449-0.063 0.351-0.009 0.342-0.818 0.171-0.171-0.036-0.081 0.045 0.279 0.243 0.512 0.279 0.539 0.315 0.566 0.674 0.027 0.368-0.216 1.052-0.827 2.364-0.126 0.27-0.234 0.602-0.234 0.737 0 0.126-0.045 0.252-0.090 0.27-0.135 0.045-0.333 0.854-0.494 1.968-0.090 0.647-0.216 1.151-0.404 1.564s-0.288 0.827-0.333 1.267c-0.045 0.566-0.081 0.674-0.288 0.827-0.369 0.27-3.209 1.474-3.389 1.438-0.108-0.018-0.252-0.225-0.387-0.566-0.306-0.764-0.332-1.195-0.117-1.627 0.099-0.189 0.234-0.53 0.297-0.746 0.063-0.207 0.171-0.404 0.234-0.431s0.198-0.18 0.306-0.351c0.099-0.171 0.234-0.306 0.297-0.306s0.153 0.279 0.216 0.719c0.063 0.387 0.171 0.845 0.243 1.007 0.126 0.297 0.126 0.288 0.135-0.378 0.018-0.926 0.108-1.384 0.279-1.42 0.117-0.018 0.153 0.072 0.189 0.449 0.027 0.261 0.108 0.62 0.18 0.791 0.126 0.297 0.135 0.279 0.090-0.593-0.018-0.503 0.009-1.178 0.072-1.546 0.126-0.782 0.234-0.818 0.845-0.279 0.225 0.198 0.413 0.333 0.413 0.297 0-0.189-0.611-0.98-0.953-1.223-0.575-0.413-0.521-0.521 0.261-0.521 0.351 0 0.791 0.036 0.962 0.090l0.315 0.081-0.36-0.315c-0.198-0.171-0.539-0.378-0.764-0.459l-0.404-0.144-0.207-0.863c-0.243-1.007-0.243-1.106-0.054-1.645 0.126-0.387 0.126-0.422-0.045-0.71-0.234-0.377-0.234-0.593-0.018-0.917 0.090-0.144 0.144-0.333 0.126-0.431-0.036-0.117 0.018-0.198 0.162-0.261 0.431-0.198 2.733-1.070 2.831-1.070 0.063-0.009 0.27 0.162 0.476 0.369zM17.42 14.003c0.404 0.117 0.611 0.252 0.98 0.62 0.252 0.261 0.539 0.629 0.647 0.836l0.18 0.36-0.198-0.045c-0.108-0.027-0.396-0.153-0.647-0.279-0.369-0.189-0.611-0.243-1.348-0.288l-0.899-0.045-0.027-0.575c-0.018-0.405 0.009-0.602 0.090-0.647 0.189-0.117 0.674-0.090 1.222 0.063zM5.483 15.036c0.764 0.108 1.438 0.243 1.492 0.297s0.189 0.584 0.297 1.169c0.162 0.944 0.171 1.097 0.054 1.222-0.279 0.306-1.213 2.589-1.213 2.957 0 0.072 0.171-0.144 0.386-0.485 0.207-0.351 0.458-0.638 0.548-0.656 0.153-0.036 0.162 0.009 0.117 0.369-0.099 0.674 0.135 1.699 0.467 2.121 0.162 0.207 0.306 0.369 0.315 0.369s0.009-0.126-0.018-0.27c-0.045-0.306 0.144-0.369 0.351-0.126 0.063 0.081 0.333 0.27 0.593 0.413 0.557 0.315 0.611 0.485 0.548 1.6l-0.045 0.701 0.27-0.324c0.144-0.18 0.315-0.404 0.378-0.503 0.090-0.126 0.18-0.153 0.36-0.108 0.261 0.063 1.124 0.827 1.124 0.989 0 0.054-0.081 0.252-0.171 0.422-0.144 0.261-0.171 0.441-0.126 0.818 0.045 0.44 0.027 0.512-0.189 0.728-0.126 0.126-0.234 0.279-0.234 0.333 0 0.045-0.072 0.090-0.153 0.090-0.279 0-2.004-0.494-2.004-0.566 0-0.045-0.063-0.216-0.144-0.387s-0.126-0.431-0.108-0.584c0.045-0.27 0-0.315-1.133-1.16-0.647-0.476-1.411-1.025-1.699-1.213-0.566-0.378-0.908-0.845-0.854-1.16 0.036-0.162 0.009-0.198-0.144-0.171-0.108 0.027-0.306-0.009-0.449-0.063l-0.261-0.099 0.063-0.647c0.135-1.51 0.144-2.076 0.054-3.506-0.063-1.007-0.144-1.582-0.225-1.708-0.171-0.27-0.018-1.052 0.207-1.052 0.081 0 0.782 0.090 1.546 0.189zM17.78 15.432c0.566 0.171 1.573 0.782 1.762 1.079 0.279 0.413 0.153 0.602-0.243 0.387-0.126-0.063-0.045 0.063 0.189 0.324 0.396 0.431 0.692 0.989 0.755 1.402 0.018 0.189-0.009 0.234-0.234 0.252-0.153 0.018-0.611-0.081-1.025-0.216-0.656-0.207-1.187-0.512-1.969-1.142-0.063-0.045-0.117-0.063-0.117-0.036 0 0.036 0.306 0.315 0.674 0.638 0.584 0.494 0.764 0.593 1.285 0.719 0.467 0.108 1.825 0.324 2.049 0.324 0.018 0 0.036 0.054 0.036 0.117 0 0.162-2.4 0.288-2.894 0.153-0.899-0.252-1.825-0.818-2.157-1.33-0.108-0.162-0.162-0.413-0.162-0.737 0-0.548 0.099-0.773 0.297-0.692 0.108 0.036 0.117-0.027 0.081-0.342-0.018-0.216-0.009-0.539 0.018-0.71l0.063-0.324h0.566c0.306 0 0.773 0.063 1.025 0.135zM16.018 18.533c0.467 0.665 2.364 1.888 2.948 1.888 0.135 0 0.315 0.081 0.404 0.189 0.144 0.153 0.153 0.225 0.063 0.467-0.099 0.27-0.090 0.279 0.036 0.108 0.072-0.099 0.162-0.288 0.189-0.431 0.036-0.18 0.099-0.243 0.261-0.243 0.261 0 0.279 0.207 0.081 0.701-0.207 0.476-0.485 0.737-0.782 0.737-0.198 0-0.297 0.063-0.413 0.279-0.279 0.512-0.683 0.917-1.142 1.133-0.441 0.198-0.441 0.207-0.108 0.153 0.387-0.063 0.396-0.036 0.162 0.602-0.557 1.456-1.681 2.184-3.515 2.292-0.728 0.045-0.782 0.036-1.223-0.225-0.342-0.198-0.539-0.395-0.737-0.746-0.279-0.494-1.339-1.564-1.978-1.977-0.207-0.135-0.449-0.404-0.557-0.602-0.144-0.288-0.243-0.369-0.494-0.422-0.36-0.063-0.638-0.378-0.935-1.025-0.297-0.656-0.261-0.854 0.243-1.169 0.611-0.387 1.151-0.521 2.481-0.629 1.258-0.099 2.013-0.252 2.544-0.521 0.189-0.099 0.458-0.198 0.602-0.234 0.243-0.063 0.252-0.054 0.144 0.099-0.063 0.090-0.225 0.252-0.351 0.36l-0.225 0.198 0.342-0.081c0.449-0.099 1.016-0.503 1.294-0.917 0.117-0.189 0.27-0.342 0.324-0.342 0.054 0.009 0.207 0.171 0.342 0.36zM12.081 25.508c0.144 0.234 0.467 0.548 0.746 0.737 0.539 0.36 0.521 0.413-0.216 0.512-0.818 0.108-0.557 0.243 0.333 0.171 0.575-0.045 0.809-0.027 0.809 0.045 0 0.054-0.045 0.099-0.099 0.099-0.198 0-1.582 0.719-1.798 0.935-0.342 0.332-0.62 0.234-0.62-0.225 0-0.189-0.045-0.441-0.099-0.566-0.090-0.189-0.072-0.27 0.108-0.521 0.144-0.198 0.216-0.431 0.225-0.701 0.009-0.413 0.162-0.899 0.279-0.899 0.045 0 0.189 0.189 0.333 0.413zM17.708 25.931c0.162 0.413 0.18 0.539 0.090 0.647-0.072 0.090-0.090 0.27-0.054 0.521 0.054 0.351 0.036 0.404-0.171 0.512-0.198 0.108-0.27 0.099-0.611-0.063-0.207-0.099-0.647-0.279-0.98-0.387-0.62-0.198-0.791-0.36-0.395-0.36 0.117 0 0.548 0.099 0.962 0.216 0.413 0.126 0.773 0.207 0.791 0.189 0.18-0.18-0.665-0.584-1.223-0.584-0.306 0-0.252-0.153 0.108-0.27 0.18-0.063 0.494-0.306 0.737-0.584 0.234-0.261 0.458-0.449 0.485-0.413 0.027 0.027 0.144 0.288 0.261 0.575zM15.587 27.387c0.279 0.126 0.503 0.243 0.503 0.261s-0.288 0.27-0.629 0.548l-0.638 0.521-0.782-0.369c-0.431-0.207-0.899-0.396-1.043-0.431-0.216-0.054-0.234-0.072-0.108-0.144 0.342-0.189 1.213-0.467 1.672-0.521 0.27-0.036 0.503-0.072 0.503-0.081 0.009 0 0.243 0.090 0.521 0.216zM13.609 20.214l-0.27 0.333-0.944-0.108c-1.348-0.153-1.636-0.144-1.843 0.081l-0.171 0.198 0.315-0.054c0.53-0.081 2.355 0.189 2.553 0.378 0.234 0.234 0.315 1.294 0.117 1.519-0.135 0.144-0.117 0.18 0.261 0.485 0.225 0.18 0.458 0.315 0.53 0.288 0.144-0.054 0.881-1.025 0.782-1.025-0.036 0-0.234 0.162-0.422 0.36s-0.396 0.36-0.458 0.36c-0.234 0-0.351-0.306-0.351-0.89 0-0.395-0.054-0.701-0.162-0.926-0.171-0.333-0.171-0.333 0.054-0.629 0.198-0.261 0.396-0.701 0.315-0.701-0.018 0-0.153 0.153-0.306 0.333zM14.148 20.268c0.045 0.369 0.252 0.602 0.665 0.773 0.135 0.054 0.297 0.216 0.36 0.36 0.081 0.189 0.207 0.279 0.539 0.36 0.827 0.216 0.98 0.225 1.151 0.018 0.090-0.108 0.216-0.189 0.27-0.189 0.063 0 0.135-0.063 0.162-0.144 0.054-0.126 0.027-0.126-0.189 0.018-0.369 0.243-1.519 0.243-1.699 0-0.207-0.279-0.153-0.342 0.243-0.288 0.342 0.045 1.286-0.144 1.447-0.297 0.036-0.027-0.27-0.036-0.674-0.027-0.404 0.018-1.016-0.009-1.348-0.072-0.602-0.108-0.62-0.117-0.791-0.485l-0.171-0.369 0.036 0.342zM10.404 21.309c0.401-0.312 0.924-0.144 1.373-0.078 0.351-0.064 0.704-0.13 1.066-0.091 0.050 0.031 0.152 0.090 0.202 0.12-0.24 0.025-0.479 0.062-0.719 0.088-0.262 0.119-0.507 0.301-0.813 0.253-0.112-0.070-0.222-0.144-0.323-0.228-0.257-0.070-0.524-0.041-0.787-0.064zM14.621 23.479c0.302 0.009 0.613 0.002 0.87-0.179 0.026 0.097 0.071 0.185 0.133 0.264-0.084 0.018-0.167 0.037-0.25 0.056-0.47-0.182-0.884 0.236-1.344 0.262-0.154-0.015-0.271-0.115-0.377-0.217-0.183-0.008-0.375-0.030-0.54 0.067-0.249 0.133-0.532 0.114-0.805 0.103 0.090-0.089 0.18-0.179 0.271-0.268 0.154-0.002 0.307-0.005 0.462-0.009 0.056-0.059 0.112-0.119 0.169-0.177 0.276-0.036 0.554 0.055 0.731 0.275 0.251 0.047 0.454-0.109 0.68-0.177zM13.864 24.202c0.205-0.005 0.405-0.049 0.603-0.095 0.273 0.030 0.536 0.16 0.741 0.343-0.177-0.037-0.354-0.070-0.534-0.088-0.467-0.208-0.905 0.161-1.325 0.326-0.129 0.238-0.239 0.491-0.242 0.768-0.057-0.062-0.113-0.122-0.17-0.183-0.015-0.31 0.037-0.675 0.322-0.856 0.193-0.093 0.403-0.147 0.605-0.217z" />
             </svg>
-          </li>
-        </ul>
+                    </li>
+                </ul>
 
-        <div class="subheading mb-3">Banco de dados</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100" height="60" viewBox="0 0 204.8 105.765">
+                <div class="subheading mb-3">Banco de dados</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="100" height="60" viewBox="0 0 204.8 105.765">
               <path d="M0 96.334h6.747V69.7l10.445 23.227c1.232 2.8 2.92 3.806 6.228 3.806s4.93-.995 6.164-3.806L40.03 69.7v26.644h6.748v-26.6c0-2.595-1.04-3.85-3.18-4.498-5.125-1.6-8.564-.216-10.12 3.244l-10.25 22.923L13.3 68.48c-1.492-3.46-4.995-4.844-10.12-3.244C1.038 65.885 0 67.14 0 69.734v26.6zm52.386-21.686h6.745v14.68c-.063.798.256 2.67 3.952 2.727 1.886.03 14.554 0 14.672 0v-17.48h6.76c.03 0-.007 23.834-.006 23.936.037 5.878-7.294 7.155-10.672 7.254H52.533v-4.54l21.342-.001c4.342-.46 3.83-2.617 3.83-3.344v-1.77h-14.34c-6.672-.06-10.92-2.973-10.973-6.323-.005-.3.144-14.995-.004-15.14z" fill="#00618a" />
               <path d="M89.716 96.334h19.398c2.27 0 4.477-.475 6.23-1.298 2.92-1.34 4.347-3.157 4.347-5.536v-4.93c0-1.947-1.622-3.763-4.8-4.974-1.687-.65-3.763-.995-5.774-.995h-8.175c-2.724 0-4.022-.822-4.346-2.638-.065-.216-.065-.4-.065-.606v-3.07c0-.173 0-.347.065-.563.324-1.384 1.038-1.774 3.438-2 .195 0 .454-.044.65-.044h19.268v-4.497h-18.944c-2.725 0-4.152.173-5.45.562C91.532 67 89.78 69 89.78 72.46v3.936c0 3.028 3.44 5.623 9.212 6.228.65.043 1.298.086 1.946.086h7.007c.26 0 .52 0 .714.044 2.14.173 3.05.562 3.698 1.34.4.4.52.78.52 1.2v3.936c0 .476-.324 1.082-.973 1.6-.584.52-1.557.865-2.855.952-.26 0-.454.043-.713.043h-18.62v4.498zm72.064-7.828c0 4.628 3.438 7.223 10.38 7.742a29.45 29.45 0 0 0 1.946.086h17.582v-4.498h-17.712c-3.957 0-5.45-.995-5.45-3.374v-23.27h-6.747v23.312zm-37.785.234V72.705c0-4.074 2.86-6.545 8.516-7.325a12.94 12.94 0 0 1 1.821-.13h12.807a13.87 13.87 0 0 1 1.886.13c5.656.78 8.516 3.25 8.516 7.325V88.74c0 3.305-1.215 5.074-4.015 6.227l6.646 6h-7.834l-5.377-4.854-5.413.343h-7.216c-1.235 0-2.535-.174-3.966-.564-4.3-1.17-6.37-3.424-6.37-7.152zm7.283-.4c0 .217.065.433.13.694.4 1.864 2.145 2.904 4.8 2.904h6.13l-5.63-5.083h7.834l4.9 4.433c.905-.482 1.5-1.22 1.7-2.167.065-.216.065-.433.065-.65V73.096c0-.173 0-.4-.065-.607-.4-1.733-2.146-2.73-4.746-2.73H136.22c-3 0-4.94 1.3-4.94 3.337v15.256z" fill="#e48e00" />
               <g fill="#00618a">
@@ -314,9 +301,9 @@
               </g>
               <path d="M194.855 91.708c0 2.97 2.347 4.972 4.972 4.972s4.972-2.002 4.972-4.972-2.347-4.972-4.972-4.972-4.972 2.002-4.972 4.972zm8.83 0c0 2.254-1.723 3.938-3.86 3.938-2.16 0-3.86-1.684-3.86-3.938s1.698-3.938 3.86-3.938c2.135 0 3.86 1.684 3.86 3.938zm-2.52 2.838h1.113l-1.63-2.492c.875-.093 1.537-.518 1.537-1.552 0-1.154-.73-1.63-2.134-1.63h-2.215v5.675h.955v-2.453h.888l1.485 2.453zm-2.374-3.25v-1.63h1.1c.57 0 1.26.106 1.26.77 0 .795-.623.862-1.34.862h-1.02z" fill="#e48e00" fill-rule="evenodd" />
             </svg>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="60" viewBox="0 0 84.422 41.453" width="100">
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="60" viewBox="0 0 84.422 41.453" width="100">
               <clipPath id="a">
                 <path d="m0 0h191.356v57.344h-191.356z" />
               </clipPath>
@@ -325,9 +312,9 @@
                 <path clip-path="url(#a)" d="m75.198 5.328c-1.872.047-2.977.863-3.34 2.42.48.418 1.126.6 1.77.572 1.415-.06 2.817-1.138 2.42-2.965-.298-.025-.582-.035-.85-.027m9.642-5.328h-.167c-1.335.043-1.542.767-4.425 1.477-2.912.717-5.725.028-8.86 1.344-9.363 3.927-11.358 17.472-19.868 22.279-6.36 3.593-12.512 5.188-18.28 6.995-3.792 1.188-7.552 2.556-10.988 5.516-2.667 2.3-3.4 4.085-6.177 6.97-2.835 2.933-11.553-2.258-15.8 1.54a.84.84 0 0 0 .014 1.253c.92.805 2.67 2.722 4.336 3.314-.528 1-3.513 3.946-2.904 5.42.64 1.55 8.04.497 14.88-3.633 3.185-1.924 5.723-4.696 10.685-5.357 6.42-.855 13.817.55 21.25 1.62-1.103 3.286-3.315 5.473-5.088 8.1-.55.592 1.103.658 2.986.3 3.4-.838 5.832-1.513 8.4-3 3.143-1.83 3.62-6.52 7.474-7.534 1.864 2.865 6.5 3.83 10.074 2.3.198-.084.392-.177.582-.275.43-.375.178-.813-.086-1.135a6.21 6.21 0 0 1 -.362-.364c-2.012-2.162-2.472-7.266-1.58-9.748 1.017-2.824 2.022-7.343 3.046-11.075 1.1-4 1.506-9.063 2.837-11.106 2.002-3.072 4.215-4.127 6.136-5.86s3.68-3.42 3.62-7.384c-.028-1.223-.629-1.927-1.735-1.957m.204 4.163c-.397 2.734-2.144 4.237-4.208 5.687-1.8 1.27-3.794 2.493-5.07 4.477-1.305 2.03-2.134 8.985-4.16 15.852-1.68 5.698-4.184 11.335-8.467 14.05-.278.176-.645.015-.704-.3-.3-1.592-.24-4.5-.734-3.56-.62 1.77-1.322 3.458-2.143 5.027-2.52 4.816-6.166 8.505-12.057 9.95a.53.53 0 0 1 -.552-.82c2.718-3.77 5.15-7.825 5.447-14.014.025-.534-.646-.778-.983-.364-1.284 1.583-1.6 5.347-3.477 6.506-1.474.16-2.967.16-4.47.07-6.17-.37-12.502-2.226-18.274-.373-3.93 1.262-8.057 4.85-11.386 6.293-3.912 1.686-5.766 3.286-10.706 3.176-.505-.68 2.062-3.623 2.934-4.893.278-.407-.317-.835-.874-1.1-1.338-.614-2.68-2.28-4.107-2.93.183-.337.83-.674 1.187-.88 3.24-1.88 11.832 2.124 14.14-.143 1.425-1.398 2.385-2.626 3.353-4.05.94-1.38 2.368-2.838 3.847-4.047a31.3 31.3 0 0 1 1.94-1.435c2.52-1.724 3.907-1.852 7.17-3.064 4.152-1.544 9.293-2.898 13.747-4.6 2.752-1.053 5.744-2.35 8.183-4.17.58-.432 1.127-.893 1.634-1.386 6.964-6.8 8.345-18.766 19.2-19.882 1.314-.135 2.248-.192 3.228-.223 1.096-.03 2.18-.3 3.263-.818.334-.146 2.324-1.35 2.996-.768.448.388.115 2.492.086 2.72" transform="matrix(.402475 0 0 .402475 24.790133 2.372202)" />
               </g>
             </svg>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
               <path d="M16.147 5.154l1.09 2.05a6.15 6.15 0 0 0 .824 1.024c.913.913 1.782 1.87 2.56 2.895 1.848 2.427 3.095 5.122 3.986 8.04.534 1.782.824 3.608.846 5.456.09 5.523-1.804 10.266-5.634 14.208a16.3 16.3 0 0 1-2.004 1.715c-.38 0-.557-.3-.713-.557-.3-.5-.468-1.047-.557-1.603-.134-.668-.223-1.336-.178-2.027v-.312c-.022-.067-.356-30.732-.223-30.888z" fill="#599636" />
               <path d="M16.147 5.088c-.045-.09-.09-.022-.134.022.022.445-.134.846-.38 1.225-.267.38-.624.668-.98.98-1.982 1.715-3.54 3.786-4.788 6.102-1.648 3.118-2.516 6.458-2.76 9.977-.11 1.27.4 5.746.802 7.037 1.09 3.43 3.05 6.302 5.6 8.796.624.6 1.292 1.158 1.982 1.692.2 0 .223-.178.267-.312a6.11 6.11 0 0 0 .2-.869c.2-1.113.312-2.227.445-3.34l-.245-31.31z" fill="#6cac48" />
               <path d="M17.24 41.9c.045-.512.3-.935.557-1.358-.267-.11-.468-.334-.624-.58-.134-.223-.245-.5-.334-.735-.312-.935-.38-1.915-.468-2.873v-.58c-.11.09-.134.846-.134.958-.067 1.024-.2 2.027-.4 3.006-.067.4-.11.802-.356 1.158 0 .045 0 .09.022.156.4 1.18.512 2.383.58 3.608v.445c0 .534-.022.423.423.6.178.067.38.09.557.223.134 0 .156-.11.156-.2l-.067-.735v-2.05c-.022-.356.045-.713.09-1.047z" fill="#c2bfbf" />
@@ -337,20 +324,20 @@
                 <path d="M77.95 30.85l.355.055c.383.014.834-.123.97-.656a1.38 1.38 0 0 0 0-.78c-.082 0-.123.068-.164.096-.205.164-.437.26-.683.287-.492.055-.984.027-1.462-.15l-.67-.232a3.95 3.95 0 0 0-1.45-.19c-.697.055-1.353.287-1.968.615-.656.355-1.12.888-1.34 1.613-.123.424-.137.86-.082 1.298.137.998.656 1.695 1.585 2.064.055.014.096.04.15.055.123.068.137.137.027.232l-.342.232-.82.506c-.205.123-.232.22-.164.437a1.43 1.43 0 0 0 .437.656 2.28 2.28 0 0 0 .629.383c.15.068.15.1.014.22l-.78.56c-.26.2-.52.4-.738.656a1.35 1.35 0 0 0-.328 1.23 2.31 2.31 0 0 0 .71 1.23 2.9 2.9 0 0 0 1.257.683c.765.22 1.558.232 2.337.082 1.12-.205 2.1-.7 2.87-1.544.533-.56.847-1.216.875-2a1.92 1.92 0 0 0-1.476-1.995l-.738-.137-2.255-.2c-.246-.014-.492-.055-.697-.178-.26-.164-.328-.478-.164-.683.123-.15.273-.246.465-.26l.437-.04a3.96 3.96 0 0 0 2.309-1.052 2.42 2.42 0 0 0 .697-1.162c.164-.588.164-1.2.027-1.8-.04-.15-.027-.164.164-.137zm-3.35 6.807c.082.014.164 0 .246 0 .574.027 1.162.068 1.722.22a3.58 3.58 0 0 1 .533.205c.547.3.752.82.683 1.38-.082.615-.424 1.052-.957 1.34-.355.2-.752.287-1.162.328-.15.014-.287 0-.437 0-.478.014-.943-.04-1.394-.232-.314-.123-.574-.3-.806-.547-.478-.478-.7-1.353.014-2.064.437-.4.93-.683 1.558-.63zm1.558-4.264c-.287.724-.916.943-1.544.847-.574-.082-.998-.396-1.27-.916-.355-.697-.45-1.42-.246-2.173.15-.56.492-.984 1.093-1.08.765-.137 1.5.137 1.886.902.2.37.287.82.287 1.462-.014.26-.068.615-.205.957zm-17.218-.93c-.123-.738-.396-1.408-.902-1.968-.752-.834-1.708-1.2-2.788-1.203-.943-.014-1.83.26-2.624.752a3.56 3.56 0 0 0-1.599 2.091c-.232.793-.22 1.6-.04 2.405.478 2.16 2.146 3.088 4.14 2.952.588-.04 1.148-.232 1.68-.492.793-.37 1.367-.957 1.763-1.736.314-.642.45-1.326.437-2.105l-.068-.697zM57 35.497a1.66 1.66 0 0 1-1.408 1.148c-.6.082-1.162-.068-1.667-.424a2.84 2.84 0 0 1-.861-1.025c-.56-1.148-.656-2.35-.37-3.58a2.05 2.05 0 0 1 .574-.998c.506-.465 1.093-.574 1.75-.437.63.137 1.107.478 1.5.998s.574 1.12.683 1.75c.055.314.055.642.068.847 0 .656-.055 1.2-.26 1.722zm31.8-2.924c-.1-.793-.396-1.517-.957-2.118-.738-.806-1.695-1.148-2.76-1.162-.916-.014-1.763.246-2.542.697-.875.52-1.476 1.257-1.708 2.255a4.77 4.77 0 0 0 .328 3.252c.45.957 1.216 1.572 2.228 1.845 1.12.3 2.187.164 3.225-.342.902-.437 1.544-1.12 1.913-2.05.22-.547.3-1.134.314-1.818.014-.123-.014-.342-.04-.56zm-1.886 2.747c-.22.738-.683 1.216-1.462 1.326-.574.082-1.12-.055-1.613-.383-.424-.287-.724-.67-.943-1.12-.246-.478-.383-.984-.437-1.503-.082-.642-.082-1.27.068-1.913a1.95 1.95 0 0 1 .123-.369c.383-.957 1.23-1.394 2.228-1.175.67.15 1.175.52 1.558 1.08.37.547.547 1.148.63 1.8.04.26.055.533.04.765 0 .533-.04 1.025-.2 1.503z" fill="#47474a" />
               </g>
             </svg>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
               <path d="M52.277 32.1h7.384l-3.918-6.254-7.158 11.378h-3.24L54 23.595c.377-.527.98-.904 1.733-.904.678 0 1.28.3 1.658.83l8.74 13.638H62.9l-1.507-2.562h-7.46zm33.832 2.487v-11.83H83.32v12.96c0 .377.15.678.377.98.3.3.603.452.98.452H97.26l1.658-2.562zm-45.662-2.1c2.713 0 4.822-2.185 4.822-4.822 0-2.713-2.185-4.822-4.822-4.822H28.39v14.392h2.788V25.328h9.117a2.35 2.35 0 0 1 2.336 2.336A2.35 2.35 0 0 1 40.296 30h-7.76l8.213 7.158h3.994l-5.576-4.672zm-29.16 4.672c-3.994 0-7.158-3.24-7.158-7.158 0-3.994 3.24-7.158 7.158-7.158h8.364c3.994 0 7.158 3.24 7.158 7.158 0 3.994-3.24 7.158-7.158 7.158zm8.213-2.562a4.7 4.7 0 0 0 4.672-4.672 4.7 4.7 0 0 0-4.672-4.672h-7.987a4.7 4.7 0 0 0-4.672 4.672 4.7 4.7 0 0 0 4.672 4.672zm52.443 2.562c-3.994 0-7.158-3.24-7.158-7.158 0-3.994 3.24-7.158 7.158-7.158h9.946l-1.658 2.562h-8.138a4.7 4.7 0 0 0-4.672 4.672 4.7 4.7 0 0 0 4.672 4.672h9.946l-1.658 2.562h-8.44zm33.832-2.562c-2.1 0-3.918-1.432-4.446-3.39h11.83l1.658-2.562h-13.412c.527-1.96 2.336-3.39 4.446-3.39h8.138l1.658-2.562H105.7c-3.994 0-7.158 3.24-7.158 7.158 0 3.994 3.24 7.158 7.158 7.158h8.515l1.658-2.562h-10.097z" fill="#e30613" /></svg>
-          </li>
-        </ul>
+                    </li>
+                </ul>
 
-        <div class="subheading mb-3">Estrutura e serviço</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-            <i class="fab fa-docker"></i>
-          </li>
-          <li class="list-inline-item">
-            <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
+                <div class="subheading mb-3">Estrutura e serviço</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item">
+                        <i class="fab fa-docker"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="120" height="60">
               <defs>
                 <filter id="A" filterUnits="userSpaceOnUse" x="79.3" y="86.2" width="188.1" height="166.2">
                   <feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" color-interpolation-filters="sRGB" />
@@ -390,50 +377,48 @@
               <path d="M46.347 36.046v-1.008h1.414v-8.064h-1.414v-1.008h4.046v1.008H48.98v8.064h1.414v1.008zm6.258-10.08h4.144c1.666 0 2.688 1.022 2.688 2.604 0 1.498-.966 2.03-1.638 2.142v.084c.728.042 1.974.658 1.974 2.338 0 1.666-1.106 2.912-2.604 2.912H52.59zm1.204 4.354h2.786c.952 0 1.526-.504 1.526-1.4v-.5c0-.896-.574-1.4-1.526-1.4H53.81zm0 4.648h2.996c1.036 0 1.68-.546 1.68-1.554v-.5c0-1.008-.63-1.554-1.68-1.554H53.81zm16.058-7.42h-.07l-.854 1.694-2.408 4.396-2.394-4.396-.854-1.68h-.07v8.484h-1.2v-10.08H63.6l2.884 5.432h.056l2.898-5.432h1.582v10.08h-1.162zm6.076 3.528c0-3.402 1.75-5.292 4.466-5.292 1.848 0 3.038.756 3.766 2.366l-1.9.98c-.266-.84-.798-1.4-1.876-1.4-1.288 0-2.142.868-2.142 2.45v1.624c0 1.582.854 2.45 2.142 2.45 1.078 0 1.708-.672 2.002-1.498l1.792 1.036c-.756 1.526-1.946 2.408-3.794 2.408-2.716.014-4.466-1.722-4.466-5.124zm11.802 4.97c-1.456 0-2.128-.742-2.128-2.086v-8.6h2.142v9.03h.952v1.666zm1.778-3.808c0-2.436 1.33-3.962 3.556-3.962s3.556 1.512 3.556 3.962c0 2.436-1.33 3.976-3.556 3.976s-3.556-1.526-3.556-3.976zm4.886.784v-1.54c0-.952-.5-1.498-1.33-1.498s-1.33.546-1.33 1.498v1.54c0 .952.5 1.498 1.33 1.498s1.33-.546 1.33-1.498zm8.218 1.75h-.07c-.266.77-.882 1.442-2.128 1.442-1.54 0-2.366-1.078-2.366-2.996v-4.76h2.142v4.578c0 .924.308 1.442 1.078 1.442.658 0 1.344-.378 1.344-1.092v-4.928h2.142v7.588h-2.142zm8.778 0h-.07c-.2.826-1.05 1.442-2.03 1.442-1.918 0-2.912-1.4-2.912-3.976s.994-3.962 2.912-3.962c.98 0 1.82.602 2.03 1.442h.07v-4.382h2.142v10.682h-2.142zm0-1.4v-2.24c0-.7-.588-1.106-1.4-1.106s-1.4.616-1.4 1.568V32.9c0 .952.588 1.568 1.4 1.568s1.4-.42 1.4-1.106z" />
               <path transform="matrix(.174633 0 0 .164594 -7.396642 1.227934)" mask="url(#B)" d="M79.3 86.2h188.1v166.2H79.3z" fill="url(#F)" />
             </svg>
-          </li>
-        </ul>
+                    </li>
+                </ul>
 
 
-    </section>
+        </section>
 
-    <hr class="m-0">
+        <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
-      <div class="w-100">
-        <h2 class="mb-5">Base de pensamento</h2>
-        <p>
-          Acredito no desenvolvimento de forma ágil, entregando valor em forma de software em funcionamento,
-          entendendo as necessidades, propondo soluções, negociando prazos e implementando código com a mais auta
-          qualidade.
-        </p>
-      </div>
-    </section>
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+            <div class="w-100">
+                <h2 class="mb-5">Base de pensamento</h2>
+                <p>
+                    Acredito no desenvolvimento de forma ágil, entregando valor em forma de software em funcionamento, entendendo as necessidades, propondo soluções, negociando prazos e implementando código com a mais auta qualidade.
+                </p>
+            </div>
+        </section>
 
-  </div>
+        </div>
 
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141103144-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141103144-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
 
-    gtag('config', 'UA-141103144-1');
-  </script>
+            gtag('config', 'UA-141103144-1');
+        </script>
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+        <!-- Plugin JavaScript -->
+        <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
-  <!-- Custom scripts for this template -->
-  <script src="js/resume.min.js"></script>
+        <!-- Custom scripts for this template -->
+        <script src="js/resume.min.js"></script>
 
 </body>
 
